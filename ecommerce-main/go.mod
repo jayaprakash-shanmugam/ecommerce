@@ -1,8 +1,9 @@
 module github.com/kishorens18/ecommerce
 
-go 1.20
+go 1.21.0
 
 require (
+	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/gin-gonic/gin v1.9.1
 	go.mongodb.org/mongo-driver v1.12.1
 	google.golang.org/grpc v1.57.0
