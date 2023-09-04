@@ -1,4 +1,5 @@
 package constants
-const ConnectionString ="mongodb+srv://jp:jp@cluster0.4ipjx6l.mongodb.net/?retryWrites=true&w=majority"
-const Port =":5002"
-const DatabaseName ="Ecommerce"
+
+const ConnectionString = "mongodb+srv://kishore:keepkishore@cluster0.vgu9tbs.mongodb.net/"
+const Port = ":5002"
+const DatabaseName = "Ecommerce"
