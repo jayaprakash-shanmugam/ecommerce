@@ -1,16 +1,9 @@
-// This file is to define the connection strings
-// Port
-// Datbase conenctivity
 package config
-
 import (
 	"context"
 	"fmt"
-
-	//"fmt"
 	"log"
 	"time"
-
 	"github.com/kishorens18/ecommerce/constants"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
